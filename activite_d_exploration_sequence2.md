@@ -1,16 +1,22 @@
 Réalisation de l’activité d’exploration de la séquence 2
 
 1- On doit créer nos articles mais pour nous faciliter la tâche nous allons d’abord ajouter nos images. Pour cela on va dans le menu « Médias » et on clique sur « Ajouter » afin de les up-loader.
+![Image] (https://eltiacuisine.files.wordpress.com/2015/09/1.png)
 
 2- Ensuite pour créer nos articles on clique sur « Ajouter » dans le menu « Articles ».
+![Image] (https://eltiacuisine.files.wordpress.com/2015/09/2.png)
 
 3- On mentionne le titre puis on ajoute le contenu de l’article.
+![Image] (https://eltiacuisine.files.wordpress.com/2015/09/3.png)
 
 4- Sans oublier de mentionner la catégorie…
+![Image] (https://eltiacuisine.files.wordpress.com/2015/09/4.png)
 
 5- Puis les mots clés et aussi une image à la une (Afin qu’elle puisse facilement être mise en avant)
+![Image] (https://eltiacuisine.files.wordpress.com/2015/09/5.png)
 
 6- On vérifie qu’on a bien nos 5 articles comme le demande l’exercice.
+![Image] (https://eltiacuisine.files.wordpress.com/2015/09/6.png)
 
 7- Ensuite on crée les 2 pages. Pour cela on clique sur « Ajouter » quand on est dans la partie « Pages ».
 
